@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1482069202 source:c:\users\acer\desktop\project snake\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
+1483954575 source:c:\users\acer\desktop\project snake - ai fucker\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"snake_fun.h"
+
+1483890570 c:\users\acer\desktop\project snake - ai fucker\snake_fun.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+

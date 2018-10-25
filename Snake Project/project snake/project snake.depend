@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1482069368 source:c:\users\acer\desktop\project snake\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
